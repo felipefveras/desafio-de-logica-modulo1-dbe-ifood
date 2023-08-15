@@ -1,1 +1,1 @@
-# desafio-de-logica-modulo1-dbe-ifood
+Desafio de lógica 01 do curso 'Desenvolvedor de software BackEnd' promovido pela Cubos Academy e ofertado por meio de processo seletivo do programa Potência Tech by Ifood. OBS: Todas as questões foram resolvidas pela plataforma 'hakerrank.com'
